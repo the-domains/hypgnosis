@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-12T17:17:30.025Z'
-dateModified: '2016-01-12T16:51:47.351Z'
+datePublished: '2016-01-12T17:21:53.465Z'
+dateModified: '2016-01-12T17:18:57.175Z'
 title: HypGnosis Is......
 author: []
 sourcePath: _posts/2016-01-12-hypgnosis-is.md
