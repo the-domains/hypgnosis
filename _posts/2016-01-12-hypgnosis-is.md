@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-12T16:51:45.354Z'
-dateModified: '2016-01-12T16:51:41.376Z'
+datePublished: '2016-01-12T17:17:30.025Z'
+dateModified: '2016-01-12T16:51:47.351Z'
 title: HypGnosis Is......
 author: []
 sourcePath: _posts/2016-01-12-hypgnosis-is.md
