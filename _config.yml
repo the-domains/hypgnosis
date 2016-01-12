@@ -1,19 +1,4 @@
-name: HypGnosis
-favicon: null
-layout_spectrum: 0.9612337069120258
-typography_spectrum: 0.7738418239168823
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#F7EDF0'
@@ -21,8 +6,13 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.5408687379676849
-  lightness: 0.4060412978287786
-  saturation: 0.6535264614503831
-  rhythmicContrast: 0.8599996652919799
+  brandStrength: 0.540868
+  lightness: 0.406041
+  rhythmicContrast: 0.859999
+  saturation: 0.738176
+cta: {}
+layout_spectrum: 0.951014
+name: HypGnosis
+opengraph: {}
 purpose: []
+typography_spectrum: 0.871622
